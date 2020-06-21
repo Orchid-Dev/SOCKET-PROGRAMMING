@@ -1,0 +1,3 @@
+De_DA1_Socket_2020.pdf
+Small_File.txt
+stackstring
